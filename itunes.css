@@ -1,0 +1,86 @@
+#warning {width: 680px; padding: 0; margin: 15px auto; border: 1px solid #2c5fb4; text-align: center; background: #ddf0fe;}
+#warning h1 {padding: 0; margin: 10px; font-size: 16px; color: #2c5fb4;}
+
+#header {width: 485px; margin: 0 0 10px 0; text-align: left;}
+#header .hero {margin: -5px 0 3px -7px;}
+
+#main {margin: 10px auto;}
+
+#content {width: 485px;}
+#sidebar {width: 175px;}
+
+#sidebar .navbox {margin: 0 0 10px 0; width: 100%; background: #f5f4f4 url(http://web.archive.org/web/20050828153138im_/http://images.apple.com/itunes/images/navbox04272004.gif) no-repeat bottom right;}
+#sidebar .navboxhead {margin: 0; padding: 0; background: #d9d9d9 url(http://web.archive.org/web/20050828153138im_/http://images.apple.com/itunes/images/navboxhead04272004.gif) no-repeat top right;}
+#sidebar .navboxhead h2 {font-size: 12px; color: #000; padding: 5px 10px 4px; background: url(http://web.archive.org/web/20050828153138im_/http://images.apple.com/itunes/images/navboxheadh204272004.gif) no-repeat top left;}
+#sidebar .navboxhead h2 a {text-decoration: none; color: #000;}
+#sidebar .navboxhead h2 a:hover {text-decoration: underline;}
+#sidebar .navboxbody {font-size: 13px; margin: 0; padding: 5px 10px 1px 10px; background: url(http://web.archive.org/web/20050828153138im_/http://images.apple.com/itunes/images/navboxbody04272004.gif) no-repeat bottom left;}
+#sidebar .navboxbody li {padding-bottom: .5em; margin-left: 10px;}
+#sidebar .navboxbody li.important {margin-left: 0px;}
+#sidebar .navboxbody a {text-decoration: none; color: #000;}
+#sidebar .navboxbody a:hover {text-decoration: underline;}
+#sidebar .navboxbody a.hi {font-weight: bold;}
+
+.showMac {display: none;}
+.showWin {}
+
+a.itunes {background: url(http://web.archive.org/web/20050828153138im_/http://images.apple.com/itunes/images/navitunes04272004.gif) left top no-repeat; display: block; padding-left: 23px;}
+a.import {background: url(http://web.archive.org/web/20050828153138im_/http://images.apple.com/itunes/images/navimport04272004.gif) left top no-repeat; display: block; padding-left: 23px;}
+a.playlist {background: url(http://web.archive.org/web/20050828153138im_/http://images.apple.com/itunes/images/navpartyshuffle04272004.gif) left top no-repeat; display: block; padding-left: 23px;}
+a.share {background: url(http://web.archive.org/web/20050828153138im_/http://images.apple.com/itunes/images/navshare04272004.gif) left top no-repeat; display: block; padding-left: 23px;}
+a.burn {background: url(http://web.archive.org/web/20050828153138im_/http://images.apple.com/itunes/images/navburn04272004.gif) left top no-repeat; display: block; padding-left: 23px;}
+a.ipod {background: url(http://web.archive.org/web/20050828153138im_/http://images.apple.com/itunes/images/navipod04272004.gif) left top no-repeat; display: block; padding-left: 23px;}
+a.ipodcasting {background: url(http://web.archive.org/web/20050828153138im_/http://images.apple.com/itunes/images/navipodcasticon20050628.gif) left top no-repeat; display: block; padding-left: 23px;}
+a.store {background: url(http://web.archive.org/web/20050828153138im_/http://images.apple.com/itunes/images/navstore04272004.gif) left top no-repeat; display: block; padding-left: 23px;}
+a.buy {background: url(http://web.archive.org/web/20050828153138im_/http://images.apple.com/itunes/images/navcart04272004.gif) left top no-repeat; display: block; padding-left: 23px;}
+a.discover {background: url(http://web.archive.org/web/20050828153138im_/http://images.apple.com/itunes/images/navbrowse04272004.gif) left top no-repeat; display: block; padding-left: 23px;}
+a.audiobooks {background: url(http://web.archive.org/web/20050828153138im_/http://images.apple.com/itunes/images/navbooks04272004.gif) left top no-repeat; display: block; padding-left: 23px;}
+a.shareyourtaste {background: url(http://web.archive.org/web/20050828153138im_/http://images.apple.com/itunes/images/navimix04272004.gif) left top no-repeat; display: block; padding-left: 23px;}
+
+#sidebar .roundbox {margin: 0 0 1em 0; width: 100%; background: #ddf0fe url(http://web.archive.org/web/20050828153138im_/http://images.apple.com/itunes/images/roundbox04272004.gif) no-repeat bottom right;}
+#sidebar .roundboxhead {margin: 0; padding: 0; background: #2c5fb4 url(http://web.archive.org/web/20050828153138im_/http://images.apple.com/itunes/images/roundboxhead04272004.gif) no-repeat top right; border-bottom: 1px solid #2755a2;}
+#sidebar .roundboxhead h2 {padding: 5px 10px 3px; color: #fff; background: url(http://web.archive.org/web/20050828153138im_/http://images.apple.com/itunes/images/roundboxheadh204272004.gif) no-repeat top left;}
+#sidebar .roundboxbody {margin: 0; padding: 5px 10px; background: url(http://web.archive.org/web/20050828153138im_/http://images.apple.com/itunes/images/roundboxbody04272004.gif) no-repeat bottom left;}
+
+#sidebar .roundboxmore {margin: 0; width: 100%; background: #ddf0fe url(http://web.archive.org/web/20050828153138im_/http://images.apple.com/itunes/images/roundboxmore04272004.gif) repeat-y top right;}
+#sidebar .roundboxmorebody {margin: 0; padding: 5px 10px; background: url(http://web.archive.org/web/20050828153138im_/http://images.apple.com/itunes/images/roundboxmorebody04272004.gif) repeat-y top left;}
+#sidebar .roundboxmorebtm {margin: 0 0 1em 0; width: 100%; background: #b8d2f3 url(http://web.archive.org/web/20050828153138im_/http://images.apple.com/itunes/images/roundboxmorebtm04272004.gif) no-repeat bottom right;}
+#sidebar .roundboxmorebtm p {padding: 3px 5px 5px 10px; color: #000; background: url(http://web.archive.org/web/20050828153138im_/http://images.apple.com/itunes/images/roundboxmorebtmp04272004.gif) no-repeat bottom left; margin: 0;}
+#sidebar .roundboxmorebtm a {font-weight: bold; color: #000; text-decoration: none; display: block; background: url(http://web.archive.org/web/20050828153138im_/http://images.apple.com/itunes/images/sidebarmorearrow04272004.gif) right top no-repeat; padding-right: 15px;}
+#sidebar .roundboxmorebtm a:hover {text-decoration: underline;}
+
+#sidebar .squarebox {margin-bottom: 10px; border: 1px solid #5229B2; background-color: #E0E0E0;}
+#sidebar .squarebox h2 {margin-left: 10px;}
+#sidebar .squarebox ul.listhelp {margin-left: 5px; margin-right: 15px;}
+
+#sidebar .chart ol {margin-left: 2em; padding-bottom: 0;}
+#sidebar .chart a {text-decoration: none; color: #000;}
+#sidebar .chart a:hover {text-decoration: underline;}
+#sidebar .last, #sidebar p.last {margin-bottom: 4px;}
+#sidebar hr {color: #AFCBEC; background-color: #AFCBEC; border: 0; width: 100%; height: 1px; margin: .5em 0;}
+#sidebar ul.listhelp {padding-left: 5px;}
+
+.promo {border: 1px solid #a1a5a9; background: #f8f8f8; text-align: center; margin-bottom: 10px;}
+.promo img {margin: 5px;}
+.promo a {display: block;}
+
+/*
+     FILE ARCHIVED ON 15:31:38 Aug 28, 2005 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:04:02 Jan 21, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.79
+  exclusion.robots: 0.041
+  exclusion.robots.policy: 0.023
+  esindex: 0.015
+  cdx.remote: 11.532
+  LoadShardBlock: 82.843 (3)
+  PetaboxLoader3.datanode: 191.782 (4)
+  load_resource: 209.496
+  PetaboxLoader3.resolve: 90.806
+*/
